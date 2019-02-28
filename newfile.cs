@@ -1,0 +1,1 @@
+class Programm { static void Main() {int a= 0; a++; System.Console.WriteLine("Vlados pidor"); return;}}
